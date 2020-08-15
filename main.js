@@ -4,7 +4,7 @@ let genStyleObj = randomi => {return {transform: `
 `}}
 
 let bars = ''
-for (let i = 1; i <= 4; i++) bars += `
+for (let i = 0; i < 4; i++) bars += `
     <div class="bar bar-${i}">
     <div :style="styles[${i}]"/>
     </div>

@@ -36,9 +36,9 @@ body {
     height: 100%;
 }
 
-.bar-2 {transform: rotate(45deg)}
-.bar-3 {transform: rotate(90deg)}
-.bar-4 {transform: rotate(135deg)}
+.bar-1 {transform: rotate(45deg)}
+.bar-2 {transform: rotate(90deg)}
+.bar-3 {transform: rotate(135deg)}
 
 h1 {
     width: 950px;
